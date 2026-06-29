@@ -91,7 +91,7 @@ nav ul {
     font-weight: bolder;
 }
 
-#media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
     .gameContainer {
         flex-wrap: wrap;
     }
